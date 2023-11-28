@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    padding: 50px;
+}
+
+button {
+    height: 80px;
+    width: 120px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    margin: 0px 40px;
+    cursor: pointer;
+}
